@@ -1,0 +1,16 @@
+.app {
+  margin-top: 1rem;
+  &__container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  &__heading {
+    text-align: center;
+  }
+  &__sub-heading {
+    text-align: center;
+  }
+  &__response {
+    margin: 4rem 0;
+  }
+}
